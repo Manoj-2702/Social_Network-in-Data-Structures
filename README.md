@@ -13,3 +13,13 @@ We will be implementing a social network system, which consists of various users
 ![friends](https://user-images.githubusercontent.com/103581128/201150138-d5a2ef33-a815-4eed-92b9-9958b3b3dbd5.png)
 <br>
 In the above diagram, you can understand the structure of the system based on the USER [ID] named in each node. Friends is a list that is initially given as input, the friend IDs marked as red are not present in the tree, hence the final list of friends stored (next line) contains only the friends that exist in the tree.
+
+
+# Learning Outcomes
+
+1. Cope with abstractions depicting real-world entities.
+2. Choosing appropriate data-structures for the right design.
+3. Writing reusable and modular code.
+4. Strengthen memory management in C and avoid dangling pointers and memory leaks while using dynamic data-structures like linked lists.
+5. Getting familiar with the various operations of a BST.
+6. Rearranging the nodes in BST.
