@@ -1,0 +1,40 @@
+Wrong input! 
+USER NOT IN TREE.
+Wrong input! 
+11 A
+-1
+11
+Wrong input! 
+11 E
+12 D
+13 F
+14 C
+15 B
+16 A
+17 G
+Wrong input! 
+12
+15
+16
+17
+Wrong input! 
+Wrong input! 
+Wrong input! 
+Wrong input! 
+11
+Wrong input! 
+17
+Wrong input! 
+USER NOT IN TREE.
+USER NOT IN TREE.
+11
+13
+12
+USER NOT IN TREE.
+Wrong input! 
+14 C
+15 B
+16 A
+17 G
+Wrong input! 
+USER NOT IN TREE.

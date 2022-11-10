@@ -1,0 +1,145 @@
+Wrong input! 
+12 A
+13 A
+13
+12
+-1
+Wrong input! 
+1 A
+2 B
+3 C
+4 D
+5 E
+7 F
+8 G
+9 H
+10 I
+Wrong input! 
+3
+8
+2
+4
+7
+9
+10
+1
+Wrong input! 
+2
+3
+4
+5
+7
+8
+9
+1
+Wrong input! 
+5
+4
+7
+9
+10
+1
+Wrong input! 
+2
+3
+4
+5
+7
+8
+9
+10
+Wrong input! 
+10
+Wrong input! 
+Wrong input! 
+1 A
+2 B
+3 C
+4 D
+7 F
+8 G
+9 H
+10 I
+Wrong input! 
+Wrong input! 
+2
+3
+4
+7
+8
+9
+1
+Wrong input! 
+2
+3
+4
+7
+8
+9
+10
+Wrong input! 
+1 A
+Wrong input! 
+1
+Wrong input! 
+-1
+Wrong input! 
+Wrong input! 
+Wrong input! 
+1 A
+2 B
+3 C
+4 D
+5 E
+7 F
+8 G
+9 H
+10 I
+Wrong input! 
+1 A
+2 B
+3 C
+4 D
+5 E
+7 F
+8 G
+9 H
+Wrong input! 
+1 A
+3 C
+4 D
+5 E
+7 F
+8 G
+9 H
+Wrong input! 
+1 A
+3 C
+4 D
+7 F
+8 G
+9 H
+Wrong input! 
+1 A
+3 C
+4 D
+7 F
+9 H
+Wrong input! 
+1 A
+3 C
+7 F
+9 H
+Wrong input! 
+1 A
+7 F
+9 H
+Wrong input! 
+1 A
+9 H
+Wrong input! 
+1 A
+Wrong input! 
+Wrong input! 
+Wrong input! 
+Wrong input!
